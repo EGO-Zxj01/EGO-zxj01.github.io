@@ -1,5 +1,5 @@
 # Site settings
-title: 无用网站
+title: 无用网站...
 SEOTitle: 由搬运过来的代码 | 没用的搬运过来的网站
 header-img: img/home-bg.jpg
 email: 
@@ -13,8 +13,8 @@ future: true
 
 # SNS settings
 RSS: false
-github_username: (https://github.com/EGO-Zxj01)
-twitter_username: （https://x.com/zxj1032761?s=09）
+github_username: https://github.com/EGO-Zxj01
+twitter_username: https://x.com/zxj1032761?s=09
 
 
 # Build settings
